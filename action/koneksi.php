@@ -1,8 +1,8 @@
 <?php
-	$host="dbbengkelku.cuizowsg7by5.us-east-1.rds.amazonaws.com";
-	$user="admin";
-	$password="admin12345";
-	$db="dbbengkelku";
+	$host="localhost";
+	$user="dayaksto_tegar";
+	$password="admintegar";
+	$db="dayaksto_DB_Bengkel";
 	
 	$koneksi=mysqli_connect($host,$user,$password,$db);
 ?>
